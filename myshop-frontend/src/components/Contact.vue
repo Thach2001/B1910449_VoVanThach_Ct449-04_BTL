@@ -25,7 +25,14 @@
             <i class="fa-solid fa-phone icon-phone"></i>
             +84 338791316
          </p>
-         <p><i class="fa-brands fa-github"></i><a href=""> Link github</a></p>
+         <p>
+            <i class="fa-brands fa-github"></i
+            ><a
+               href="https://github.com/Thach2001/B1910449_VoVanThach_Ct449-04_BTL.git"
+            >
+               Link github</a
+            >
+         </p>
          <div class="form-group row">
             <label class="col-sm-2 col-form-label">Đóng góp ý kiến</label>
             <div class="col-sm-8">
